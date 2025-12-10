@@ -1,0 +1,1 @@
+export default function Submit(){return <div className='p-4'>Submission Form Placeholder</div>}

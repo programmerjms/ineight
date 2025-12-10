@@ -1,0 +1,1 @@
+export default function Tournament(){return <div className='p-4'>Bracket Placeholder</div>}
